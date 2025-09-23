@@ -18,7 +18,7 @@ Publicaremos os códigos em Jupiter Notebook, não enviaremos os dados utilizado
 
 
 
-\*\*Autor\*\*: Júlia Bachinski
+*Autor*: Júlia Bachinski
 
 Laboratório de Controle e Qualidade do Ar - LCQAR
 
