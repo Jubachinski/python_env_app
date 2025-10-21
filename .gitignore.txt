@@ -1,4 +1,3 @@
-dados
 *.csv
 *.png
 # Byte-compiled / optimized / DLL files
